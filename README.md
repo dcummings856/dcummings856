@@ -9,6 +9,7 @@ I am a Software Developer for 100Devs, based in the Greater Philadelphia area, w
 ## Experience
 -HTML/CSS
 -Javascript
+-EJS
 -Node/Express
 -MongoDB/Mongoose
 -React
