@@ -21,9 +21,6 @@ I am a Software Developer for 100Devs, based in the Greater Philadelphia area, w
 -React
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on LFG-full (repo name)
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything!
 - 📫 How to reach me: dcummings856@gmail.com
 - ⚡ Fun fact: I love the outdoors and video games
