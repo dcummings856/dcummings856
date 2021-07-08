@@ -10,7 +10,7 @@ Welcome to my GitHub Page!
 
 ## About Me
 
-I am a Software Developer for 100Devs, based in the Greater Philadelphia area, working in both front-end and back-end development. I love creating interactive, stylized and professional websites and web-apps, and I have a passion for breaking things down to understand how they work. Working on a team or solo I strive to produce the best products for employers and clients.
+I am a Software Developer, based in the Greater Philadelphia area, working in both front-end and back-end development. I love creating interactive, stylized and professional websites and web-apps, and I have a passion for breaking things down to understand how they work. Working on a team or solo I strive to produce the best products for employers and clients.
 
 ## Experience
 -HTML/CSS
