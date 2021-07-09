@@ -15,6 +15,7 @@ I am a Software Developer, based in the Greater Philadelphia area, working in bo
 ## Experience
 -HTML/CSS
 -Javascript
+-Git
 -EJS
 -Node/Express
 -MongoDB/Mongoose
