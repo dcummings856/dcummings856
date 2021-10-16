@@ -8,8 +8,9 @@ I am a Software Developer, based in the Greater Philadelphia area, working in bo
 
 ## Experience
 
--HTML/CSS
 -Javascript
+-HTML
+-CSS
 -Git
 -EJS
 -Node/Express
